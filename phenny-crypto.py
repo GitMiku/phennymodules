@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #Phenny module that outputs the current prices of various cryptocurrencies 
+#Example output http://i.imgur.com/ruhI7Zb.png
 import urllib2
 import json
 def crypto(phenny, input):
